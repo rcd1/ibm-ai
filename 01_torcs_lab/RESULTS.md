@@ -17,5 +17,8 @@ I'll separate my writing into **Notes** and the **Results**. Notes will be far m
 - The details aren't important when I haven't even seen the bigger picture yet, TORCS is a box that let's me play make believe in a way that would cost me who knows how much otherwise. It provides the world and its laws, I just need to give it the model that can breathe life into it. Wonder what kind of car it uses, which track should I try first?
 - There couldn't really be a best solution, the goal isn't something on some settings. That would devolve into magic numbers that would make your driver the best in that exact situation, right? Just get it to drive around, and not crashing could be nice :)
 - With the intros read, it's time for 01_torcs_lab.md :O !!!!!
-### 01_torcs_lab Notes
+## 05/13/2026
+### 01_torcs_lab Notes 
+Life is having ARM64 knowing full well you should've gotten the x64. I can't help that I like how light the Surface is though... oh well.
+
 
